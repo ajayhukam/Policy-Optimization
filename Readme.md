@@ -1,5 +1,3 @@
-Here’s your complete README.md file 👇
-
 # Policy Optimization for Financial Decision-Making
 
 ## Overview
